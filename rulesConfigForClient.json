@@ -2,6 +2,5 @@
   "default": "/Users/rohitashwanigam/repos/mine/drools-dynamic-rules/rulesConfigs/default.drl",
   "flipkart": "/Users/rohitashwanigam/repos/mine/drools-dynamic-rules/rulesConfigs/flipkart.drl",
   "amazon": "/Users/rohitashwanigam/repos/mine/drools-dynamic-rules/rulesConfigs/amazon.drl",
-  "paytm": "/Users/rohitashwanigam/repos/mine/drools-dynamic-rules/rulesConfigs/paytm.drl",
-  "ajio": "/Users/rohitashwanigam/repos/mine/drools-dynamic-rules/rulesConfigs/ajio.drl"
+  "paytm": "/Users/rohitashwanigam/repos/mine/drools-dynamic-rules/rulesConfigs/paytm.drl"
 }
